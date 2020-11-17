@@ -1,2 +1,1 @@
-let hensu = 'hello'
-console.log(hensu)
+document.write('test');
